@@ -4,5 +4,5 @@ void main()
 	printf("you are bitch!");
 	printf("this is the third line code!");
 	printf("git has a mutable index called stageF!");
-	pirntf("git track!");
+	pirntf("git tracks!");
 }
